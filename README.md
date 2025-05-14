@@ -1,0 +1,1 @@
+# Simple-lua-obfuscator
